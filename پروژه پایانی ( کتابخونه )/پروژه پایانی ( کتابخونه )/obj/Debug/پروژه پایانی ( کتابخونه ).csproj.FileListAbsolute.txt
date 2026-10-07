@@ -1,0 +1,12 @@
+C:\Users\PASARGAD\Documents\Visual Studio 2012\Projects\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\bin\Debug\پروژه پایانی ( کتابخونه ).exe.config
+C:\Users\PASARGAD\Documents\Visual Studio 2012\Projects\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\bin\Debug\پروژه پایانی ( کتابخونه ).exe
+C:\Users\PASARGAD\Documents\Visual Studio 2012\Projects\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\bin\Debug\پروژه پایانی ( کتابخونه ).pdb
+C:\Users\PASARGAD\Documents\Visual Studio 2012\Projects\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\obj\Debug\پروژه پایانی ( کتابخونه ).csprojResolveAssemblyReference.cache
+C:\Users\PASARGAD\Documents\Visual Studio 2012\Projects\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\obj\Debug\پروژه پایانی ( کتابخونه ).exe
+C:\Users\PASARGAD\Documents\Visual Studio 2012\Projects\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\obj\Debug\پروژه پایانی ( کتابخونه ).pdb
+E:\C# RayanHosh\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\bin\Debug\پروژه پایانی ( کتابخونه ).exe.config
+E:\C# RayanHosh\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\obj\Debug\پروژه پایانی ( کتابخونه ).exe
+E:\C# RayanHosh\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\obj\Debug\پروژه پایانی ( کتابخونه ).pdb
+E:\C# RayanHosh\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\obj\Debug\پروژه پایانی ( کتابخونه ).csprojResolveAssemblyReference.cache
+E:\C# RayanHosh\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\bin\Debug\پروژه پایانی ( کتابخونه ).exe
+E:\C# RayanHosh\پروژه پایانی ( کتابخونه )\پروژه پایانی ( کتابخونه )\bin\Debug\پروژه پایانی ( کتابخونه ).pdb
